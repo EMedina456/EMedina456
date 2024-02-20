@@ -1,5 +1,5 @@
 - 👋 Hi, my name is Eric Medina!
-- 👀 I’m interested in Computer Science, specifically Cybersecurity
+- 👀 I’m interested in Computer Science, Data Analytics, Web Development, and CyberSecurity
 - 🌱 I’m currently learning many languages to improve my coding skills 
 - 💞️ I’m looking to collaborate on any types of projects over the summer
 - 📫 How to reach me: 20eam22@queensu.ca || 613-462-3092
